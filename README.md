@@ -17,7 +17,11 @@
        Install the following Libraries :
                       
                 * pip install tkinter
+                
                 * pip install ttkthemes 
+                
+                * pip install cx_Freeze==6.1 (for making exe file build)
+                
          and Run Code ... !!                      
 
 
