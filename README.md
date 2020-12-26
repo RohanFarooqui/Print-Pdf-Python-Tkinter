@@ -6,9 +6,9 @@
 
 ### **Description** :
 
-       Blog               : https://rohanfarooqui.wordpress.com/2020/05/18/print-pdf-python/
+   Blog               : https://rohanfarooqui.wordpress.com/2020/05/18/print-pdf-python/
 
-       Demo (video Link)  : https://www.youtube.com/watch?v=E38F5p-ZjLM
+   Demo (video Link)  : https://www.youtube.com/watch?v=E38F5p-ZjLM
 
 
 
