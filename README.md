@@ -1,6 +1,6 @@
 ![](https://github.com/LOL-32/Print-Pdf-Python/blob/master/print-pdf-python.png)
 
-# **Print Pdf Python** :
+# **Print Pdf Python** 
 
 ### **Language** : Python-3 
 
